@@ -1,0 +1,35 @@
+List of errors & fixes
+
+1) Header is not big enough
+Fixed by- -
+In BooDog.html-Adding h1 tag
+
+2) There is an instruction text which needs to be removed
+Fixed by-
+In BooDog.html-Commenting out the instructions row 
+
+3) Image doesn't render
+Fixed by-
+In BooDog.html-Add opening & closing tag for img
+
+4)Link doesn't work
+Fixed by- 
+In BooDog.html-adding the link inside href
+
+5) Grow & Shrink b-utton doesn't work
+Fixed By- Adding "logic.js" insted of "error.js" in script ref
+In Logic.js file -Added doulbe quotes to click
+
+6)Orange, pink, green button doesn't do what is expected
+Fixed By-
+In BooDog.html-Updated the IDs correctly
+In Logic.js file -added "" for Pink 
+
+7) 'Random boo fact' button doesn't work
+Fixed by
+In Logic.js file -Separated out individual sting elememt
+
+
+8) 'List of Boo's favorite things' are not in organized list
+Fixed by-
+In BooDog.html-Adding li tags to the list items

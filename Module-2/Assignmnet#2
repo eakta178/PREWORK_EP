@@ -1,0 +1,78 @@
+1. AngularJS
+
+AngularJS is an open source full featured JavaScript framework developed by Google. It was designed to build dynamic web apps in the first place. Its main goals are simplification and structuring of JavaScript code.
+AngularJS allows to bind data and inject eliminate the most part of the code in order to prevent writing it. 
+It is simple because it is easy to use, it provides high simplification to the whole development process and structure of JavaScript code. In other words, it contains everything developers require while building dynamic single page application
+
+AngularJS extends HTML attributes with Directives, and binds data to HTML with Expressions.
+AngularJS directives are extended HTML attributes with the prefix ng- . The ng-app directive initializes an AngularJS application. The ng-init directive initializes application data. The ng-model directive binds the value of HTML controls (input, select, textarea) to application data.
+
+2. SEO
+Search Engine optimization is a marketing discipline focused on growing visibility in organic (non-paid) search engine results. SEO encompasses both the technical and creative elements required to improve rankings, drive traffic, and increase awareness in search engines. There are many aspects to SEO, from the words on your page to the way other sites link to you on the web. Sometimes SEO is simply a matter of making sure your site is structured in a way that search engines understand.
+
+3. LESS
+Less is a CSS pre-processor, meaning that it extends the CSS language, adding features that allow variables, mixins, functions and many other techniques that allow you to make CSS that is more maintainable, themeable and extendable. Less runs inside Node, in the browser and inside Rhino.It is JavaScript based
+You can easily convert your existing CSS files just by renaming the .css file extension to .less
+
+4. Node.js
+Node.js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices.
+
+
+What is Node.js?
+Node.js is an open source server framework
+Node.js is free
+Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+Node.js uses JavaScript on the server
+
+Why Node.js?
+Node.js uses asynchronous programming!
+
+What Can Node.js Do?
+Node.js can generate dynamic page content
+Node.js can create, open, read, write, delete, and close files on the server
+Node.js can collect form data
+Node.js can add, delete, modify data in your database
+What is a Node.js File?
+Node.js files contain tasks that will be executed on certain events
+A typical event is someone trying to access a port on the server
+Node.js files must be initiated on the server before having any effect
+Node.js files have extension ".js"
+
+5. jQuery
+jQuery is a fast, small, and feature-rich JavaScript library. It makes things like HTML document traversal and manipulation, event handling, animation, and Ajax much simpler with an easy-to-use API that works across a multitude of browsers.
+It is a DOM manupulation library.
+
+Why use jQuery?
+Eay to use
+make code shorter
+have cross browser support
+AJAX
+Vey popular so there is lot of resources avalable.
+
+Why not use?
+Performance issue-Heavy
+
+6. AJAX
+AJAX stands for Asynchronous JavaScript and XML. AJAX is a new technique for creating better, faster, and more interactive web applications with the help of XML, HTML, CSS, and Java Script. Ajax uses XHTML for content, CSS for presentation, along with Document Object Model and JavaScript for dynamic content display.
+
+Ajax is a client-side script that communicates to and from a server/database without the need for a postback or a complete page refresh. The best definition I've read for Ajax is “the method of exchanging data with a server, and updating parts of a web page – without reloading the entire page.”
+
+7. Docker
+Docker is a tool designed to make it easier to create, deploy, and run applications by using containers. Containers allow a developer to package up an application with all of the parts it needs, such as libraries and other dependencies, and ship it all out as one package.
+
+Docker is basically a container engine which uses the Linux Kernel features like namespaces and control groups to create containers on top of an operating system and automates application deployment on the container. It provides and lightweight environment to run your application code.
+
+Why use Docker?
+Docker provides this same capability without the overhead of a virtual machine. It lets you put your environment and configuration into code and deploy it. The same Docker configuration can also be used in a variety of environments. This decouples infrastructure requirements from the application environment.
+
+8. REST
+REST stands for Representational State Transfer. It relies on a stateless, client-server, cacheable communications protocol -- and in virtually all cases, the HTTP protocol is used. 
+REST is an architecture style for designing networked applications. The idea is that, rather than using complex mechanisms such as CORBA, RPC or SOAP to connect between machines, simple HTTP is used to make calls between machines.
+
+9. React js
+React is a declarative, efficient, and flexible JavaScript library for building user interfaces. ... Your components tell React what you want to render – then React will efficiently update and render just the right components when your data changes. 
+
+10. GraphQL
+GraphQL is a query language created by Facebook in 2012 which provides a common interface between the client and the server for data fetching and manipulations. The client asks for various data from the GraphQL server via queries.
+
+
